@@ -1,2 +1,26 @@
-광복의 역사, 사건등에 대한 정보를 제공하기 위한 웹페이지 입니다.<br>
-https://ssongmi.github.io/GwangBok_Web_Project/
+<h2>광복 웹페이지</h2>
+
+<p>광복의 역사, 사건 등의 정보를 알 수 있는 웹페이지</p>
+<br>
+
+<h3>:pushpin: 추진 일정</3>
+<hr>
+<p>2019.10.07 ~ 2019.10.19</p>
+<br>
+
+<h3>:pushpin: 개요</3>
+<hr>
+<p>광복의 역사, 사건 등의 정보를 알고 싶은 사람들을 위한 페이지</p>
+<br>
+
+<h3>:pushpin: 기술 스택</3>
+<hr>
+<pHTML / CSS / JS / jQuery </p>
+<br>
+
+<h3>:pushpin: 개발 내용</3>
+<hr>
+<p>사이드 바</p>
+<p>더보기 기능</p>
+<p>롤링 카운터</p>
+<br>
