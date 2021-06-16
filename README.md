@@ -15,7 +15,7 @@
 
 <h3>:pushpin: 기술 스택</3>
 <hr>
-<pHTML / CSS / JS / jQuery </p>
+<p>HTML / CSS / JS / jQuery </p>
 <br>
 
 <h3>:pushpin: 개발 내용</3>
